@@ -1,3 +1,3 @@
-# Simplilearn Java File Handling Assessment
+# Simplilearn Java Assessment
 
 Part of a course undertaken.

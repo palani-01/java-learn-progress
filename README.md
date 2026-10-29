@@ -1,3 +1,1 @@
-# Simplilearn Java Assessment
-
-Part of a course undertaken.
+Learning Java with simple programs
